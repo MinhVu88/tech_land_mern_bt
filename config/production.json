@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Strou301250strup:37Kristen16Nygaard3928@devconnectormern.zyp2k.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "areyouaoneorazero",
+  "githubClientId": "25bc316743f99bae938c",
+  "githubSecret": "099ecbd12c03776b63c934c42963e42dbe2cacb6"
+}
